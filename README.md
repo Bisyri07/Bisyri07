@@ -2,7 +2,7 @@
 <!--
 **Bisyri07/Bisyri07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on **Odoo project**
+- 🔭 I’m currently working on *Odoo project* **@PT Sanbe Farma**
 - 🌱 I’m currently learning Owl framework for Odoo Owl Project
 - 👯 I’m looking to collaborate on Odoo project
 - 💬 Ask me about **Odoo development and python**
